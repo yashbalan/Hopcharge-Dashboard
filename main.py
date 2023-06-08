@@ -1,4 +1,3 @@
-pip install pandas
 pip install streamlit
 pip install plotly.express
 pip install go

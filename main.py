@@ -1,3 +1,9 @@
+pip install pandas
+pip install streamlit
+pip install plotly.express
+pip install go
+pip install plotly
+
 import pandas as pd
 import streamlit as st
 import plotly.express as px
